@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saifullah Latki</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
-
+<img src="https://avatars.githubusercontent.com/u/116554950?v=4" alt="my pic" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="saif-dev1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saifullahlatki" target="blank"><img src="https://img.shields.io/twitter/follow/saifullahlatki?logo=twitter&style=for-the-badge" alt="saifullahlatki" /></a> </p>
